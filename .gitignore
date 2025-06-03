@@ -1,0 +1,7 @@
+*.pyc
+*.log
+.env
+!.env.example
+budget.db
+.venv
+venv
