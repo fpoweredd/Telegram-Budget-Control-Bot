@@ -286,4 +286,4 @@ The core of this bot is a reusable pipeline: **photo of a document → AI → va
 
 **What a production version would add:** multiple teams with invite links and roles, a web dashboard or Telegram Mini App, exports and integrations (Google Sheets, accounting APIs, webhooks), voice notes as input ("12 euros, taxi"), multi-currency, PostgreSQL and webhook mode for scale, and an audit log of who approved what.
 
-**Want something like this for your business?** I build Telegram bots with AI that remove manual data entry, take orders and payments, and answer customers. See [my GitHub profile](https://github.com/fpoweredd) for more projects and how to reach me.
+**Want something like this for your business?** I build Telegram bots with AI that remove manual data entry, take orders and payments, and answer customers. See [my GitHub profile](https://github.com/fpoweredd) for more.
