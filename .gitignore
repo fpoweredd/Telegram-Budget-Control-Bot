@@ -1,7 +1,20 @@
+# Python
+__pycache__/
 *.pyc
-*.log
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Secrets and user data
 .env
 !.env.example
-budget.db
-.venv
-venv
+*.db
+*.db-shm
+*.db-wal
+*.db.bak-*
+
+# Logs
+logs/
+*.log
